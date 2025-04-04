@@ -1,2 +1,2 @@
 # Arduino--Python
-Conexión serie desde Arduino (TX) a Python (RX)
+Demo de una conexión serie desde Arduino (TX) a Python (RX)
